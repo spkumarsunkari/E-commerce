@@ -1,0 +1,30 @@
+{
+    "mobiles":[
+        {
+            "name":"Nokia 7.2",
+            "image":"img/1.jpg",
+            "oprice":21999,
+            "price":15999
+        },{
+            "name":"Jio Phone",
+            "image":"img/2.jpg",
+            "oprice":1199,
+            "price":999
+        },{
+            "name":"IPHONE 12",
+            "image":"img/3.jpg",
+            "oprice":139999,
+            "price":119999
+        },{
+            "name":"IPHONE se",
+            "image":"img/4.jfif",
+            "oprice":115999,
+            "price":99999
+        },{
+            "name":"One plus",
+            "image":"img/5.jfif",
+            "oprice":55999,
+            "price":49999
+        }
+    ]
+}

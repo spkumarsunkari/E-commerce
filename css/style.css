@@ -1,0 +1,12 @@
+img{
+    width: 52%;
+    display: block;
+    margin: 1% auto;
+    transition: transform .2s;
+}
+img:hover{
+    transform: scale(1.2);
+}
+.card{
+    box-shadow: 23px 23px 23px -23px rgb(29, 186, 248);
+}
